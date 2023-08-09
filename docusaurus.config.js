@@ -62,7 +62,7 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          { to: 'blog', label: 'Blog', position: 'left' },
+          // { to: 'blog', label: 'Blog', position: 'left' },
           {
             type: 'dropdown',
             label: 'Projects',
