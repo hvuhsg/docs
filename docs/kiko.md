@@ -16,6 +16,6 @@ If we have a clothing shop and want to know what items to offer to a customer by
 
 ### API
 The system support REST API as well as a gRPC server.  
-REST: OpenAPI [schema](/communication/rest/spec.yaml).  
-gRPC: ProtoBuf [schema](/communication/grpc/spec.proto).  
-The repo also contains an [insomnia workspace](insomnia.rest) (a better looking postman) with all of the requests and enviroments.  
+REST: OpenAPI [schema](https://github.com/hvuhsg/kiko/tree/main/communication/rest/spec.yaml).  
+gRPC: ProtoBuf [schema](https://github.com/hvuhsg/kiko/tree/main/communication/grpc/spec.proto).  
+The repo also contains an [insomnia workspace](https://insomnia.rest) (a better looking postman) with all of the requests and enviroments.  

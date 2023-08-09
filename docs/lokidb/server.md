@@ -69,6 +69,6 @@ $ lokidb -storage_dir data/
 ### API  
 
 The system support REST API as well as a gRPC server.  
-REST: [OpenAPI schema](/pkg/communication/rest/spec.yaml).  
-gRPC: [ProtoBuf schema](/pkg/communication/grpc/spec.proto).  
+REST: [OpenAPI schema](https://github.com/lokidb/server/tree/master/pkg/communication/rest/spec.yaml).  
+gRPC: [ProtoBuf schema](https://github.com/lokidb/server/tree/master/pkg/communication/grpc/spec.proto).  
 The repo also contains an [insomnia workspace](https://insomnia.rest/) (a better looking postman) with all of the requests and enviroments.  
